@@ -14,9 +14,4 @@ for now you're on your own ;))
 
 Usage: adb shell getevent | touch_event_record.py
 
-Usage(2): I've included a simple shell script (record.sh) which invokes both
-          adb and the python script, and writes its output to replay.sh as
-          well as stdout.  All you have to do then is make the script +x
-          and add sleeps.
-
 
