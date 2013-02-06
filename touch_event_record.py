@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 
 '''
 A simple script that accepts input via stdin (piped from adb shell getevent)
